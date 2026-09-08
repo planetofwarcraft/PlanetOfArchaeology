@@ -1,49 +1,51 @@
 # Planet of Archaeology
 
-Археологический помощник для **World of Warcraft Retail** от **Planet of Warcraft**.
+English | [Русский](README.ru.md)
 
-## Возможности
+An archaeology companion for **World of Warcraft Retail** by **Planet of Warcraft**.
 
-- Каталог артефактов и история находок персонажа.
-- Планирование экспедиций и навигация к раскопкам.
-- Компактное окно раскопок с прогрессом текущего проекта.
-- Достижения с поиском и отслеживанием.
-- Уведомления о впервые восстановленных артефактах.
-- Настройка масштаба, прозрачности, языка и привязки окон.
+## Features
 
-## Установка
+- Artifact catalogue and your character's discovery history.
+- Expedition planning and navigation to dig sites.
+- A compact dig-site window showing current project progress.
+- Searchable achievements and achievement tracking.
+- Notifications for artifacts restored for the first time.
+- Adjustable window scale, opacity, language, and window docking.
 
-1. Скачайте ZIP-архив аддона из этого репозитория и распакуйте его.
-2. Поместите папку `PlanetOfArchaeology` в `World of Warcraft/_retail_/Interface/AddOns/`.
-3. Включите аддон в списке модификаций игры.
-4. Введите `/rp`, чтобы открыть главное окно.
+## Installation
 
-При обновлении со старого RelicPath сохраните резервную копию настроек: перенос сохранений требует отдельной миграции. Не включайте обе копии аддона одновременно.
+1. Download the addon's ZIP archive from this repository and extract it.
+2. Place the `PlanetOfArchaeology` folder in `World of Warcraft/_retail_/Interface/AddOns/`.
+3. Enable the addon in the game's AddOns list.
+4. Type `/rp` to open the main window.
 
-## Управление
+If you are upgrading from RelicPath, back up your settings: saved data requires a separate migration. Do not enable both addons at the same time.
 
-- **ЛКМ по значку мини-карты** — открыть журнал.
-- **ПКМ** — меню экспедиции.
-- **СКМ** — следующая доступная цель.
-- `/rp start` — начать экспедицию.
-- `/rp stop` — завершить экспедицию.
-- `/rp hud` — показать или скрыть окно раскопок.
-- `/rp reset` — сбросить положение окон.
+## Controls
 
-Настройки доступны в параметрах игры, в разделе модификаций. Масштаб окон можно менять также перетаскиванием уголка.
+- **Left-click the minimap icon** — open the journal.
+- **Right-click** — open the expedition menu.
+- **Middle-click** — select the next available target.
+- `/rp start` — start an expedition.
+- `/rp stop` — end an expedition.
+- `/rp hud` — show or hide the dig-site window.
+- `/rp reset` — reset window positions.
 
-## Языки
+Settings are available in the game's Options, under AddOns. You can also resize windows by dragging their corner.
 
-Поддерживаемые языки: английский, русский, украинский, немецкий, французский, испанский (Испания и Латинская Америка), итальянский, португальский (Бразилия), корейский, китайский (упрощённый и традиционный).
+## Languages
 
-Украинский перевод — неофициальный.
+Supported languages: English, Russian, Ukrainian, German, French, Spanish (Spain and Latin America), Italian, Portuguese (Brazil), Korean, and Chinese (Simplified and Traditional).
 
-## Ограничения
+The Ukrainian translation is unofficial.
 
-Аддон предназначен для Retail. Данные о прогрессе поступают из игры; раскопки и восстановление требуют действий игрока и не выполняются автоматически. Перед публичным выпуском продолжается проверка в игре.
+## Limitations
 
-## Автор
+This addon is intended for Retail. Progress data comes from the game; surveying and restoring artifacts require player actions and are not automated. In-game testing is ongoing ahead of the public release.
+
+## Author
 
 [YouTube — Planet of Warcraft](https://www.youtube.com/@PlanetOfWarcraft)
 
-Сведения об использованных сторонних материалах: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Third-party credits and licenses: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
