@@ -62,4 +62,8 @@ This addon is intended for Retail. Progress data comes from the game; surveying 
 
 [YouTube — Planet of Warcraft](https://www.youtube.com/@PlanetOfWarcraft)
 
+[Support development — DonationAlerts](https://www.donationalerts.com/r/planetofwarcraft)
+
+Donations are optional. The addon and all its features are free.
+
 Third-party credits and licenses: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

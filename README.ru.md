@@ -62,4 +62,8 @@
 
 [YouTube — Planet of Warcraft](https://www.youtube.com/@PlanetOfWarcraft)
 
+[Поддержать разработку — DonationAlerts](https://www.donationalerts.com/r/planetofwarcraft)
+
+Пожертвования добровольные. Аддон и все его функции бесплатны.
+
 Сведения об использованных сторонних материалах: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
