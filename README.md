@@ -4,6 +4,20 @@ English | [Русский](README.ru.md)
 
 An archaeology companion for **World of Warcraft Retail** by **Planet of Warcraft**.
 
+## Screenshots
+
+Artifact research and archaeology races, including those not yet unlocked.
+
+![Artifact research](research.png)
+
+Legion expeditions and their reward schedule.
+
+![Legion expeditions](expeditions.png)
+
+Expedition route and the compact digging progress window.
+
+![Expedition route and digging progress](route.png)
+
 ## Features
 
 - Artifact catalogue and your character's discovery history.
